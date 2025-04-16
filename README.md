@@ -1,5 +1,1 @@
 - 👋 Hi, I’m @AD2011
-- 👀 I’m interested in ...  Networking, Coding
-- 🌱 I’m currently learning ... C,Python,Java,pfSense
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...  contact@ad2011.me
