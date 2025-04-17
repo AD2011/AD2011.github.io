@@ -3,9 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
+    <lastmod>2025-04-17T23:42:20+05:30</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>/tags/environment/</loc>
+    <lastmod>2025-04-17T23:42:20+05:30</lastmod>
+  </url><url>
+    <loc>/tags/linux/</loc>
+    <lastmod>2025-04-17T23:42:20+05:30</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2025-04-17T23:42:20+05:30</lastmod>
+  </url><url>
+    <loc>/posts/environment/</loc>
+    <lastmod>2025-04-17T23:42:20+05:30</lastmod>
   </url><url>
     <loc>/tags/</loc>
+    <lastmod>2025-04-17T23:42:20+05:30</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
   </url>
 </urlset>

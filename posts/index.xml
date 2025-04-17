@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abir&#39;s Notes</title>
-    <link>/</link>
-    <description>Recent content on Abir&#39;s Notes</description>
+    <title>Posts on Abir&#39;s Notes</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Abir&#39;s Notes</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 17 Apr 2025 23:42:20 +0530</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting Up my Environment</title>
       <link>/posts/environment/</link>
