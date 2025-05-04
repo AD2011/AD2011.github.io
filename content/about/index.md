@@ -5,7 +5,7 @@ title = 'About'
 
 Hi, I’m **Abir Dey**, a cybersecurity enthusiast and Red Team consultant based in Gurugram, Delhi NCR.
 
-[Resume](../images/resume.pdf)
+[**Resume**](../images/resume.pdf) | [**Email**](mailto:abirdey2011@gmail.com) | [**LinkedIn**](https://linkedin.com/in/abirdey2011) | [**GitHub**](https://github.com/AD2011)
 
 ## 🔐 Red Teaming & Offensive Security
 
@@ -29,9 +29,3 @@ Hi, I’m **Abir Dey**, a cybersecurity enthusiast and Red Team consultant based
 - **Certified Red Team Professional (CRTP)** – 2025
 - **Certified AppSec Practitioner (CAP)** – 2024
 - **Cisco Cybersecurity Essentials** – 2023
-
-## 📬 Contact
-
-- **Email**: [abirdey2011@gmail.com](mailto:abirdey2011@gmail.com)
-- **LinkedIn**: [linkedin.com/in/abirdey2011](https://linkedin.com/in/abirdey2011)
-- **GitHub**: [github.com/AD2011](https://github.com/AD2011)
