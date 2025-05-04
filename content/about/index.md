@@ -3,8 +3,6 @@ date = '2025-05-04T19:02:57+05:30'
 title = 'About'
 +++
 
-# About Me
-
 Hi, I’m **Abir Dey**, a cybersecurity enthusiast and Red Team consultant based in Gurugram, Delhi NCR.
 
 ## 🔐 Red Teaming & Offensive Security
