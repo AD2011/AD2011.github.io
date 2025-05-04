@@ -2,10 +2,11 @@ baseurl = "/"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
-theme = "terminal"
+theme = ["terminal", "hugo-embed-pdf-shortcode"]
 pagination.pagerSize = 5
-
+cleanDestinationDir = true
 title = "Abir's Notes"
+enableInlineShortcodes = true
 
 # Required for Chroma and the custom syntax highlighting.
 [markup.highlight]

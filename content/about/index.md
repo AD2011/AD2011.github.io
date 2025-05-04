@@ -34,6 +34,5 @@ Hi, I’m **Abir Dey**, a cybersecurity enthusiast and Red Team consultant based
 - **LinkedIn**: [linkedin.com/in/abirdey2011](https://linkedin.com/in/abirdey2011)
 - **GitHub**: [github.com/AD2011](https://github.com/AD2011)
 
-## 📄 Resume
-
-<embed src="/images/resume.pdf" type="application/pdf" width="100%" height="600px" />
+## 📄 Resume 
+[Open PDF](../images/resume.pdf)
