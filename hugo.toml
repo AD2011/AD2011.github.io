@@ -102,10 +102,6 @@ title = "Abir's Notes"
           identifier = "about"
           name = "About"
           url = "/about"
-        [[languages.en.menu.main]]
-          identifier = "showcase"
-          name = "Showcase"
-          url = "/showcase"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
