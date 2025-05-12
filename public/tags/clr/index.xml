@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CLR on Abir&#39;s Notes</title>
+    <link>//localhost:1313/tags/clr/</link>
+    <description>Recent content in CLR on Abir&#39;s Notes</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 May 2025 13:13:49 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/clr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bypass Windows Defender Using Go Buena CLR</title>
+      <link>//localhost:1313/posts/bypass-windows-defender-using-go-buena-clr/</link>
+      <pubDate>Mon, 12 May 2025 13:13:49 +0530</pubDate>
+      <guid>//localhost:1313/posts/bypass-windows-defender-using-go-buena-clr/</guid>
+      <description>&lt;h1 id=&#34;bypassing-windows-defender-for-net-malware-with-go-buena-clr&#34;&gt;Bypassing Windows Defender for .NET Malware with Go-Buena-CLR&lt;/h1&gt;&#xA;&lt;p&gt;Windows Defender, with its Anti-Malware Scan Interface (AMSI), poses a formidable challenge for .NET-based malware developers. However, the evolving landscape of offensive security continuously introduces innovative techniques to bypass these defenses. This post explores how to use &lt;strong&gt;Go-Buena-CLR&lt;/strong&gt;, a custom CLR host written in Go, to effectively bypass Windows Defender’s AMSI and execute .NET malware without detection.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-bypass-amsi-for-net&#34;&gt;Why Bypass AMSI for .NET?&lt;/h2&gt;&#xA;&lt;p&gt;AMSI is a security interface that allows Windows Defender and other anti-malware solutions to inspect scripts and code loaded into memory, making it a primary target for bypass techniques. For .NET malware, AMSI can easily flag suspicious assemblies, preventing execution. Our method leverages &lt;strong&gt;Go-Buena-CLR&lt;/strong&gt;, a custom CLR host that allows .NET binaries to run without triggering AMSI’s detection.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

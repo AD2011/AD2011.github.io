@@ -5,7 +5,7 @@ title = 'About'
 
 Hi, I’m **Abir Dey**, a cybersecurity enthusiast and Red Team consultant based in Gurugram, Delhi NCR.
 
-[**Resume**](../images/resume.pdf) | [**Email**](mailto:abirdey2011@gmail.com) | [**LinkedIn**](https://linkedin.com/in/abirdey2011) | [**GitHub**](https://github.com/AD2011)
+[**Resume**](../static/resume.pdf) | [**Email**](mailto:abirdey2011@gmail.com) | [**LinkedIn**](https://linkedin.com/in/abirdey2011) | [**GitHub**](https://github.com/AD2011)
 
 ## 🔐 Red Teaming & Offensive Security
 
